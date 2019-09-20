@@ -67,7 +67,7 @@
 					<password>Goshi249</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
-					<environment>Production</environment>
+					<environment>DEV</environment>
 				</configuration>
 				<executions>
 					<execution>
